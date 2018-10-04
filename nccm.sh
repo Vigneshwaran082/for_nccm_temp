@@ -2,10 +2,10 @@
 
 #Author : vigkanda
 
-branch_name = $1
-nccm_version = $2
+#branch_name = $1
+#nccm_version = $2
 
 
-echo $branch_name
-echo $nccm_version
+echo $1
+echo $2
 echo "Cloning the projects started"
