@@ -7,3 +7,6 @@ version_name=$2
 
 echo "Branch Name :  $branch_name"
 echo "Version_name : $version_name"
+
+echo $1
+echo $2
