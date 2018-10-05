@@ -6,6 +6,6 @@ set branch_name = $1
 set nccm_version = $2
 
 
-echo $branch_name
-echo $nccm_version
-echo "Cloning the projects started"
+echo "Branch Name : $branch_name"
+echo "Version : $nccm_version"
+
