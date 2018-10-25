@@ -10,3 +10,6 @@ echo "Version_name : $version_name"
 
 echo $1
 echo $2
+
+
+tail -n 500 /data/sso-jenkins/softwares/Rally_Jenkins/burpScanLinux.py
