@@ -13,3 +13,7 @@ echo $2
 
 
 tail -n 500 /data/sso-jenkins/softwares/Rally_Jenkins/burpScanLinux.py
+
+echo "-----------------------------------------------------------------"
+
+tail -n 500 /data/sso-jenkins/softwares/burp/collect_proxies.burp
